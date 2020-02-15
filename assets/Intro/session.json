@@ -1,0 +1,17 @@
+{
+  "assets": {
+    "movieplaybackdelay": 10,
+    "waveplaybackdelay": 10
+  },
+  "settings": {
+    "beatsperbar": 4,
+    "bpm": 166,
+    "endframe": 20000000,
+    "fadeindelay": 5,
+    "fadeoutdelay": 1
+  },
+  "shaders": {
+    "0": "00100100.glsl",
+    "1": "MatrixRain.glsl"
+  }
+}
