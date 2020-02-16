@@ -13,6 +13,7 @@
   "shaders": {
     "0": "00100100.glsl",
     "1": "MatrixRain.glsl",
-    "2": "PerlinNoiseInPolarCoordinate.glsl"
+    "2": "PerlinNoiseInPolarCoordinate.glsl",
+    "3": "Speaker.glsl"
   }
 }
